@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hello there!
 
-<!--
-**VlSomers/VlSomers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Vladimir Somers** from Belgium 🇧🇪 — a Deep Learning & Computer Vision researcher passionate about AI for sports 🎯  
+Currently at **Sportradar**, where we build intelligent systems to analyze sports videos in real time 🏟️
+I believe open-source is essential for reproducible and impactful research — it helps others validate, learn from, and build upon your work. 💡
 
-Here are some ideas to get you started:
+### 🧠 My path so far
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously at **Taktik** as an R&D Software Engineer, I completed a joint **PhD (EPFL × UCLouvain × Sportradar)** focused on multi-object tracking and person re-identification, and now continue as a researcher at Sportradar.
+
+### 📬 Let’s connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vladimirsomers/)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=TNaY7lsAAAAJ)
